@@ -1,2 +1,5 @@
-# video-converter
-Python Video Converter(MKV, MP4, MOV)
+# Python Video Converter
+MKV to MP4
+MP4 to MKV
+MKV to MOV
+MOV to MKV
